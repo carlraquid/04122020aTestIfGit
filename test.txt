@@ -1,0 +1,10 @@
+ Volume in drive C is Windows-SSD
+ Volume Serial Number is 802B-E5F1
+
+ Directory of C:\Users\Carl CC\Desktop\Carl\GitFiles
+
+04/12/2020  04:17 pm    <DIR>          .
+04/12/2020  04:17 pm    <DIR>          ..
+04/12/2020  04:17 pm                 0 test.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  395,405,459,456 bytes free
